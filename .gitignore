@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+models
+P8_Cityscapes_gtFine_trainvaltest
+P8_Cityscapes_leftImg8bit_trainvaltest
